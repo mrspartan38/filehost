@@ -2,5 +2,5 @@
   "orderNum": 1,
   "Sandwich" : "Something",
   "Bread" : ["Flat", "Potato", "Wheat"],
-  "Cheese": Yes,
+  "Cheese": "Yes"
 }
