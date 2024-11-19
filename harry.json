@@ -1,6 +1,6 @@
 { "name": "John Doe",
   "orderNum": 1,
   "Sandwich" : "Something",
-  "Bread" : [Flat, Potato, Wheat],
+  "Bread" : ["Flat", "Potato", "Wheat"],
   "Cheese": Yes,
 }
